@@ -2,7 +2,7 @@
 
 **A Journey Through Data: Understanding the Student Experience Abroad**
 
-Excited to share a project that's close to my heart. I've always been curious about how studying abroad shapes us, not just academically, but emotionally and mentally. So, I dived into the data to uncover some truths.
+Excited to share a project that's close to my heart. I've always been curious about how studying abroad shapes us, not just academically, but emotionally and mentally. So, I dived into the data to uncover some truths. 
 
 1️⃣ **The Starting Point**: Began by categorizing student data. It's fascinating to see the diverse paths students take.
 
@@ -37,4 +37,5 @@ This table comprehensively displays the average scores in PHQ (Patient Health Qu
 
 Let's use this data to build a more supportive environment for our international scholars. 🎓
 
-#DataWithAHeart #StudentLife #GlobalEducation #MentalHealthAwareness
+//The data is from Datacamp for A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.//
+
